@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\bin\Debug\netcoreapp3.1\MailValidorInvalid.exe
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\bin\Debug\netcoreapp3.1\MailValidorInvalid.deps.json
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\bin\Debug\netcoreapp3.1\MailValidorInvalid.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\bin\Debug\netcoreapp3.1\MailValidorInvalid.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\bin\Debug\netcoreapp3.1\MailValidorInvalid.dll
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\bin\Debug\netcoreapp3.1\MailValidorInvalid.pdb
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\obj\Debug\netcoreapp3.1\MailValidorInvalid.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\obj\Debug\netcoreapp3.1\MailValidorInvalid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\obj\Debug\netcoreapp3.1\MailValidorInvalid.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\obj\Debug\netcoreapp3.1\MailValidorInvalid.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\obj\Debug\netcoreapp3.1\MailValidorInvalid.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\obj\Debug\netcoreapp3.1\MailValidorInvalid.dll
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\obj\Debug\netcoreapp3.1\MailValidorInvalid.pdb
+C:\Users\ASUS\Desktop\C#\MailValidorInvalid\MailValidorInvalid\obj\Debug\netcoreapp3.1\MailValidorInvalid.genruntimeconfig.cache
